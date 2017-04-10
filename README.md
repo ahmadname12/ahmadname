@@ -1,68 +1,48 @@
-~~This is Simple README 
-
-~~ Source Superflux For Supergroups 
-
-+~~Developer By : @Mustafaflux On Telegram ,
-
-To install on C9 your next steps
+#DevProx 🔱
+# channel [ၣ℡ ANIMUS🔵](https://telegram.me/ahmadnameddd)
+👮 - #DEV 🏻-  @ahmadnamed
+* * *
 
 
+# التنصيب
+#1
+sudo apt-get update
 
-#Step1 : writ this > in Terminal 
+#2
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
-sudo apt-get update 
+#3
+sudo apt-get upgrade
 
+#4
+git clone git clone https://github.com/ahmadnamed/ANIMUS.git
 
+#5
+cd ANIMUS
 
-#step2 : writ this > in Terminal 
+#6
+chmod +x launch.sh
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ 
-libjansson-dev libpython-dev expat libexpat1-dev
+#7
+./launch.sh install
 
+#8
+./launch.sh انتضر شويه وراح يطلب رقمه خليه
+* * *
 
+### Realm configuration
 
-#step3 : writ >
+After you run the bot for first time, send it !id. Get your ID and stop the bot.
 
-git clone https://github.com/ahmadname12/ahmadname.git
+تفتح هاذا المسار ./data/config.lua 
+  sudo_users = {
+    YourID
+  }
+Then restart the bot.
+* * *
 
+# Support and development [ၣ℡ ANIMUS🔵](https://telegram.me/ahmadnameddd) 🐾
 
-#step4 : Writ >
-
-cd ahmadname
-
-
-
-step5 : Writ >
-
-./launch.sh install 
-
-
-
-(When the installation finishes)
-
-
-
-step6 : Writ >
-
-./launch.sh 
-
-
-
-Then ask You Number To put him Bot
-
-[[ If You Want install on VPS DO JUST From #step3 to #step6]]
-
-----------------------------
-
-For the inauguration #SourceSuperflux 
-
-
-
-️#one_Commnd_in_New_terimnal 💠
-
-
-
-sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get install 
-libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev 
-libpython-dev expat libexpat1-dev -y && cd $HOME && rm -rf ahmadname && rm -rf .telegram-cli && git clone https://github.com/ahmadname12/ahmadname.git && cd ahmadname && ./launch.sh install && ./launch.sh
-~~~~~
+For managing on Telegram.
+ADD [@ahmadnamed](https://telegram.me/ahmadnamed) ❤️
+Subscribe to Source channel [ၣ℡ PROX DEV🔵](https://telegram.me/ahmadnameddd) 
